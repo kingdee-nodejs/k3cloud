@@ -1,0 +1,29 @@
+{
+  "name": "@kingdee-nodejs/k3cloud",
+  "version": "0.0.2",
+  "description": "A Node.js SDK for Kingdee(金蝶) k3cloud",
+  "main": "src/K3CloudApiSdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "crypto-js": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingdee-nodejs/k3cloud.git"
+  },
+  "keywords": [
+    "SDK",
+    "Kingdee",
+    "金蝶",
+    "k3cloud"
+  ],
+  "author": "tokoyi <tokoyi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingdee-nodejs/k3cloud/issues"
+  },
+  "homepage": "https://github.com/kingdee-nodejs/k3cloud#readme"
+}
